@@ -9,7 +9,7 @@ environment:
 dependencies:
   grizzly_io:
     git: https://github.com/Baneeishaque/grizzly_io.git
-  intl: ^0.18.0
+  intl: ^0.20.0
   jiffy: ^6.2.1
   tuple: ^2.0.2
 
