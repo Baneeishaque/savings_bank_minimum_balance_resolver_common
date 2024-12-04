@@ -13,7 +13,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - uses: dart-lang/setup-dart@7f54cd0cee53e120db0d1fce4196b7772ebd6f6e
+      - uses: dart-lang/setup-dart@6123db65aca0aa1e30809215875310f1ca706148
         with:
           sdk: 3.3.0-214.0.dev
 
